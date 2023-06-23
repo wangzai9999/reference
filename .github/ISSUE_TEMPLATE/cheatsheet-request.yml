@@ -44,8 +44,8 @@ body:
       label: 参考资料 URL
       description: 提供更多参考资料有助于我们整理成备忘清单(速查表)
       placeholder: |
-        https://jaywcjlove.github.io/reference
-        https://jaywcjlove.github.io/reference
+        https://ref.xszhome.cn
+        https://ref.xszhome.cn
     validations:
       required: true
 
