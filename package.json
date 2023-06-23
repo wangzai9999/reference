@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jaywcjlove/reference.git"
+    "url": "https://github.com/wangzai9999/reference.git"
   },
   "bugs": {
-    "url": "https://github.com/jaywcjlove/reference/issues"
+    "url": "https://github.com/wangzai9999/reference/issues"
   },
   "keywords": [],
   "lint-staged": {

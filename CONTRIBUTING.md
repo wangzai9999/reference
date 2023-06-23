@@ -80,7 +80,7 @@ Contributing 贡献
 ## 本地开发
 
 ```bash
-$ git clone https://github.com/jaywcjlove/reference.git 
+$ git clone https://github.com/wangzai9999/reference.git 
 $ npm i          # 安装依赖
 $ npm run build  # 编译输出 HTML
 $ npm run start  # 监听 md 文件编译输出 HTML
@@ -95,7 +95,7 @@ $ npm run start  # 监听 md 文件编译输出 HTML
 ### 方法一，只需要克隆 gh-pages 分支代码到你的静态服务就可以了
 
 ```shell
-$ git clone https://github.com/jaywcjlove/reference.git -b gh-pages
+$ git clone https://github.com/wangzai9999/reference.git -b gh-pages
 ```
 
 ### 方法二，使用 [docker](https://hub.docker.com/r/wcjiang/reference) 快捷部署 web 版
@@ -111,7 +111,7 @@ $ docker run --name reference -itd -p 9667:3000 wcjiang/reference:latest
 ### 方法三，克隆仓库自己编译，添加导航菜单
 
 ```bash
-$ git clone https://github.com/jaywcjlove/reference.git 
+$ git clone https://github.com/wangzai9999/reference.git 
 $ npm install    # 安装依赖
 $ npm run build  # 编译输出静态页面
 $ npm run start  # 开发模式，监听实时编译输出静态页面
